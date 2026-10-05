@@ -1,0 +1,109 @@
+province,kabupaten_kota,vehicle_type,vehicle_count,total_vehicles,share_type_pct,state_road_km,province_road_km,local_road_km,total_road_km,vehicles_per_road_km
+Jawa Barat,Kabupaten Bogor,Sepeda Motor,1564636,1824789,85.74,123,132,1825,2080,877.3
+Jawa Barat,Kabupaten Bogor,Mobil Penumpang,206991,1824789,11.34,123,132,1825,2080,877.3
+Jawa Barat,Kabupaten Bogor,Truk,51998,1824789,2.85,123,132,1825,2080,877.3
+Jawa Barat,Kabupaten Bogor,Bus,1164,1824789,0.06,123,132,1825,2080,877.3
+Jawa Barat,Kabupaten Bekasi,Sepeda Motor,1302238,1622679,80.25,29,32,1077,1138,1425.9
+Jawa Barat,Kabupaten Bekasi,Mobil Penumpang,252025,1622679,15.53,29,32,1077,1138,1425.9
+Jawa Barat,Kabupaten Bekasi,Truk,64393,1622679,3.97,29,32,1077,1138,1425.9
+Jawa Barat,Kabupaten Bekasi,Bus,4023,1622679,0.25,29,32,1077,1138,1425.9
+Jawa Barat,Kota Bekasi,Sepeda Motor,1153053,1532991,75.22,14,22,4676,4712,325.34
+Jawa Barat,Kota Bekasi,Mobil Penumpang,320873,1532991,20.93,14,22,4676,4712,325.34
+Jawa Barat,Kota Bekasi,Truk,56341,1532991,3.68,14,22,4676,4712,325.34
+Jawa Barat,Kota Bekasi,Bus,2724,1532991,0.18,14,22,4676,4712,325.34
+Jawa Barat,Kota Bandung,Sepeda Motor,1083002,1527139,70.92,47,39,985,1071,1425.9
+Jawa Barat,Kota Bandung,Mobil Penumpang,374341,1527139,24.51,47,39,985,1071,1425.9
+Jawa Barat,Kota Bandung,Truk,63745,1527139,4.17,47,39,985,1071,1425.9
+Jawa Barat,Kota Bandung,Bus,6051,1527139,0.4,47,39,985,1071,1425.9
+Jawa Barat,Kota Depok,Sepeda Motor,992944,1228146,80.85,33,12,1958,2003,613.15
+Jawa Barat,Kota Depok,Mobil Penumpang,214170,1228146,17.44,33,12,1958,2003,613.15
+Jawa Barat,Kota Depok,Truk,20114,1228146,1.64,33,12,1958,2003,613.15
+Jawa Barat,Kota Depok,Bus,918,1228146,0.07,33,12,1958,2003,613.15
+Jawa Barat,Kabupaten Bandung,Sepeda Motor,984467,1161953,84.73,106,127,1428,1661,699.55
+Jawa Barat,Kabupaten Bandung,Mobil Penumpang,137350,1161953,11.82,106,127,1428,1661,699.55
+Jawa Barat,Kabupaten Bandung,Truk,39054,1161953,3.36,106,127,1428,1661,699.55
+Jawa Barat,Kabupaten Bandung,Bus,1082,1161953,0.09,106,127,1428,1661,699.55
+Jawa Barat,Kabupaten Karawang,Sepeda Motor,778709,919562,84.68,51,92,1798,1941,473.76
+Jawa Barat,Kabupaten Karawang,Mobil Penumpang,107694,919562,11.71,51,92,1798,1941,473.76
+Jawa Barat,Kabupaten Karawang,Truk,31669,919562,3.44,51,92,1798,1941,473.76
+Jawa Barat,Kabupaten Karawang,Bus,1490,919562,0.16,51,92,1798,1941,473.76
+Jawa Barat,Kabupaten Cirebon,Sepeda Motor,691753,778810,88.82,101,72,1240,1414,550.79
+Jawa Barat,Kabupaten Cirebon,Mobil Penumpang,60855,778810,7.81,101,72,1240,1414,550.79
+Jawa Barat,Kabupaten Cirebon,Truk,24843,778810,3.19,101,72,1240,1414,550.79
+Jawa Barat,Kabupaten Cirebon,Bus,1359,778810,0.17,101,72,1240,1414,550.79
+Jawa Barat,Kabupaten Bandung Barat,Sepeda Motor,565603,665606,84.98,62,73,648,784,848.99
+Jawa Barat,Kabupaten Bandung Barat,Mobil Penumpang,77131,665606,11.59,62,73,648,784,848.99
+Jawa Barat,Kabupaten Bandung Barat,Truk,22290,665606,3.35,62,73,648,784,848.99
+Jawa Barat,Kabupaten Bandung Barat,Bus,582,665606,0.09,62,73,648,784,848.99
+Jawa Barat,Kabupaten Sukabumi,Sepeda Motor,504038,573978,87.81,211,315,1348,1873,306.45
+Jawa Barat,Kabupaten Sukabumi,Mobil Penumpang,48087,573978,8.38,211,315,1348,1873,306.45
+Jawa Barat,Kabupaten Sukabumi,Truk,21356,573978,3.72,211,315,1348,1873,306.45
+Jawa Barat,Kabupaten Sukabumi,Bus,497,573978,0.09,211,315,1348,1873,306.45
+Jawa Barat,Kabupaten Indramayu,Sepeda Motor,491823,552902,88.95,105,158,827,1090,507.25
+Jawa Barat,Kabupaten Indramayu,Mobil Penumpang,42251,552902,7.64,105,158,827,1090,507.25
+Jawa Barat,Kabupaten Indramayu,Truk,18028,552902,3.26,105,158,827,1090,507.25
+Jawa Barat,Kabupaten Indramayu,Bus,800,552902,0.14,105,158,827,1090,507.25
+Jawa Barat,Kabupaten Cianjur,Sepeda Motor,438540,502454,87.28,207,186,1335,1729,290.6
+Jawa Barat,Kabupaten Cianjur,Mobil Penumpang,43792,502454,8.72,207,186,1335,1729,290.6
+Jawa Barat,Kabupaten Cianjur,Truk,19504,502454,3.88,207,186,1335,1729,290.6
+Jawa Barat,Kabupaten Cianjur,Bus,618,502454,0.12,207,186,1335,1729,290.6
+Jawa Barat,Kota Bogor,Sepeda Motor,374932,484902,77.32,29,12,208,249,1947.4
+Jawa Barat,Kota Bogor,Mobil Penumpang,97652,484902,20.14,29,12,208,249,1947.4
+Jawa Barat,Kota Bogor,Truk,11690,484902,2.41,29,12,208,249,1947.4
+Jawa Barat,Kota Bogor,Bus,628,484902,0.13,29,12,208,249,1947.4
+Jawa Barat,Kabupaten Garut,Sepeda Motor,413814,473526,87.39,96,295,1022,1413,335.12
+Jawa Barat,Kabupaten Garut,Mobil Penumpang,41619,473526,8.79,96,295,1022,1413,335.12
+Jawa Barat,Kabupaten Garut,Truk,17173,473526,3.63,96,295,1022,1413,335.12
+Jawa Barat,Kabupaten Garut,Bus,920,473526,0.19,96,295,1022,1413,335.12
+Jawa Barat,Kabupaten Subang,Sepeda Motor,414350,465770,88.96,46,168,1164,1378,338.0
+Jawa Barat,Kabupaten Subang,Mobil Penumpang,37546,465770,8.06,46,168,1164,1378,338.0
+Jawa Barat,Kabupaten Subang,Truk,13420,465770,2.88,46,168,1164,1378,338.0
+Jawa Barat,Kabupaten Subang,Bus,454,465770,0.1,46,168,1164,1378,338.0
+Jawa Barat,Kabupaten Majalengka,Sepeda Motor,341556,382638,89.26,40,127,915,1082,353.64
+Jawa Barat,Kabupaten Majalengka,Mobil Penumpang,28044,382638,7.33,40,127,915,1082,353.64
+Jawa Barat,Kabupaten Majalengka,Truk,12212,382638,3.19,40,127,915,1082,353.64
+Jawa Barat,Kabupaten Majalengka,Bus,826,382638,0.22,40,127,915,1082,353.64
+Jawa Barat,Kabupaten Kuningan,Sepeda Motor,322209,363596,88.62,35,86,772,893,407.16
+Jawa Barat,Kabupaten Kuningan,Mobil Penumpang,31358,363596,8.62,35,86,772,893,407.16
+Jawa Barat,Kabupaten Kuningan,Truk,9479,363596,2.61,35,86,772,893,407.16
+Jawa Barat,Kabupaten Kuningan,Bus,550,363596,0.15,35,86,772,893,407.16
+Jawa Barat,Kabupaten Tasikmalaya,Sepeda Motor,300576,339318,88.58,74,115,1230,1420,238.96
+Jawa Barat,Kabupaten Tasikmalaya,Mobil Penumpang,26463,339318,7.8,74,115,1230,1420,238.96
+Jawa Barat,Kabupaten Tasikmalaya,Truk,11664,339318,3.44,74,115,1230,1420,238.96
+Jawa Barat,Kabupaten Tasikmalaya,Bus,615,339318,0.18,74,115,1230,1420,238.96
+Jawa Barat,Kabupaten Sumedang,Sepeda Motor,290908,329851,88.19,78,107,811,996,331.18
+Jawa Barat,Kabupaten Sumedang,Mobil Penumpang,28429,329851,8.62,78,107,811,996,331.18
+Jawa Barat,Kabupaten Sumedang,Truk,10168,329851,3.08,78,107,811,996,331.18
+Jawa Barat,Kabupaten Sumedang,Bus,346,329851,0.1,78,107,811,996,331.18
+Jawa Barat,Kabupaten Purwakarta,Sepeda Motor,277942,325923,85.28,43,59,776,878,371.21
+Jawa Barat,Kabupaten Purwakarta,Mobil Penumpang,36229,325923,11.12,43,59,776,878,371.21
+Jawa Barat,Kabupaten Purwakarta,Truk,11424,325923,3.51,43,59,776,878,371.21
+Jawa Barat,Kabupaten Purwakarta,Bus,328,325923,0.1,43,59,776,878,371.21
+Jawa Barat,Kota Cimahi,Sepeda Motor,238144,292602,81.39,4,9,105,119,2458.84
+Jawa Barat,Kota Cimahi,Mobil Penumpang,47767,292602,16.32,4,9,105,119,2458.84
+Jawa Barat,Kota Cimahi,Truk,6433,292602,2.2,4,9,105,119,2458.84
+Jawa Barat,Kota Cimahi,Bus,258,292602,0.09,4,9,105,119,2458.84
+Jawa Barat,Kabupaten Ciamis,Sepeda Motor,252648,292436,86.39,88,29,1098,1215,240.69
+Jawa Barat,Kabupaten Ciamis,Mobil Penumpang,26862,292436,9.19,88,29,1098,1215,240.69
+Jawa Barat,Kabupaten Ciamis,Truk,12109,292436,4.14,88,29,1098,1215,240.69
+Jawa Barat,Kabupaten Ciamis,Bus,817,292436,0.28,88,29,1098,1215,240.69
+Jawa Barat,Kota Tasikmalaya,Sepeda Motor,206376,251877,81.94,10,38,461,510,493.88
+Jawa Barat,Kota Tasikmalaya,Mobil Penumpang,31429,251877,12.48,10,38,461,510,493.88
+Jawa Barat,Kota Tasikmalaya,Truk,12866,251877,5.11,10,38,461,510,493.88
+Jawa Barat,Kota Tasikmalaya,Bus,1206,251877,0.48,10,38,461,510,493.88
+Jawa Barat,Kota Cirebon,Sepeda Motor,127693,170738,74.79,9,7,139,155,1101.54
+Jawa Barat,Kota Cirebon,Mobil Penumpang,30703,170738,17.98,9,7,139,155,1101.54
+Jawa Barat,Kota Cirebon,Truk,11886,170738,6.96,9,7,139,155,1101.54
+Jawa Barat,Kota Cirebon,Bus,456,170738,0.27,9,7,139,155,1101.54
+Jawa Barat,Kota Sukabumi,Sepeda Motor,98481,123909,79.48,9,33,118,160,774.43
+Jawa Barat,Kota Sukabumi,Mobil Penumpang,20030,123909,16.17,9,33,118,160,774.43
+Jawa Barat,Kota Sukabumi,Truk,4995,123909,4.03,9,33,118,160,774.43
+Jawa Barat,Kota Sukabumi,Bus,403,123909,0.33,9,33,118,160,774.43
+Jawa Barat,Kabupaten Pangandaran,Sepeda Motor,80498,93400,86.19,115,9,633,756,123.54
+Jawa Barat,Kabupaten Pangandaran,Mobil Penumpang,8167,93400,8.74,115,9,633,756,123.54
+Jawa Barat,Kabupaten Pangandaran,Truk,4682,93400,5.01,115,9,633,756,123.54
+Jawa Barat,Kabupaten Pangandaran,Bus,53,93400,0.06,115,9,633,756,123.54
+Jawa Barat,Kota Banjar,Sepeda Motor,57056,65819,86.69,15,9,253,277,237.61
+Jawa Barat,Kota Banjar,Mobil Penumpang,6316,65819,9.6,15,9,253,277,237.61
+Jawa Barat,Kota Banjar,Truk,2388,65819,3.63,15,9,253,277,237.61
+Jawa Barat,Kota Banjar,Bus,59,65819,0.09,15,9,253,277,237.61
