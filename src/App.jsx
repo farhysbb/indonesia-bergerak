@@ -1,7 +1,7 @@
-import Flow from "./components/flow.jsx";
+import Flow from "./components/Flow.jsx";
 import ModaTransportasi from "./components/modatransportasi.jsx";
-import Geospatial from "./components/geospatial.jsx";
-import Hierarchy from "./components/hierarchy.jsx";
+import Geospatial from "./components/Geospatial.jsx";
+import Hierarchy from "./components/Hierarchy.jsx";
 import "./app.css";
 
 function App() {
